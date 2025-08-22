@@ -59,7 +59,7 @@ By completing this project, you will:
 
 ---
 
-## 🧩 UI Component Architecture
+## 🧩 UI Component Patterns
 
 ### Planned Components
 
