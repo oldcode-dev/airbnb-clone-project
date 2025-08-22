@@ -138,12 +138,4 @@ All components will be designed for reusability and visual consistency across th
 - **Headings**: Circular, Bold (700), 24px–32px
 - **Secondary Text**: Circular, Book (400), 14px
 
----
 
-## 💡 Why User-Friendly Design Matters
-
-A seamless booking experience reduces friction, boosts conversion rates, and enhances user satisfaction. Prioritizing intuitive navigation, responsive layouts, and consistent design ensures a smooth journey from search to checkout.
-
----
-
-Let me know if you'd like to tailor this README for a specific GitHub repo or add setup instructions and contribution guidelines. We can also turn this into a portfolio-ready case study to showcase your leadership and technical depth.
