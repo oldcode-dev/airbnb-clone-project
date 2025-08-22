@@ -1,7 +1,3 @@
-Absolutely, Ernest! Here's a polished and structured version of your README that reflects your technical clarity and leadership potential. I’ve organized it for readability and professionalism, while keeping it engaging and informative:
-
----
-
 # 🏡 AirBnB Full-Stack Clone
 
 ## 📌 Project Overview
