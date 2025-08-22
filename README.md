@@ -44,7 +44,7 @@ By completing this project, you will:
   - Typography
   - Layouts and interactions
 
-### 👥 Roles & Responsibilities
+### 👥 Project Roles and Responsibilities
 
 | Role              | Responsibilities                                                                 |
 |-------------------|----------------------------------------------------------------------------------|
